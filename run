@@ -1,0 +1,3 @@
+#!/bin/sh
+
+setuser fpd pcfpd -p 8430 -f /policy.xml
